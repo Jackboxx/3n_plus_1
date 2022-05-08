@@ -5,4 +5,4 @@
 2. Copy the SDL2.dll file into the same directory as main.cpp
 3. Compile with **g++ main.cpp -ISDL2\include -LSDL2\lib -lmingw32 -lSDL2main -lSDL2 -o main.exe**
 
-[Image not Found](/image.PNG)
+![Image not Found](/image.PNG)
